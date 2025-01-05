@@ -263,7 +263,7 @@ public class ItemUtils {
                             break;
                         }
 
-                        for (ItemFlag itemFlag : ItemFlag.values()) {
+                        for (ItemFlag itemFlag : ItemFlag.values()) { // deprecated, marked for removal
                             if (itemFlag.name().equalsIgnoreCase(option)) {
                                 itemBuilder.addItemFlag(itemFlag);
 
