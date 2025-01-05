@@ -51,7 +51,7 @@ jalu = { module = "ch.jalu:configme", version.ref = "jalu" }
 [versions]
 # Paper API
 paper = "1.21.4-R0.1-SNAPSHOT"
-minecraft = "1.21.4"
+minecraft = "1.21.3"
 
 # Gradle Plugins
 shadow = "9.0.0-beta4"
